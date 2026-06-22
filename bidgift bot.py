@@ -11,7 +11,7 @@ BOT_TOKEN = "8808324194:AAGaYRJxEbCW01_GLnuv8cAIeWdqCUnL8x8"
 CHANNEL_INVITE = "https://t.me/+rTIsSbfkngUwZGNi"
 # Укажи username или ID канала (бот должен быть админом)
 # Формат: @username или числовой ID (например -1001234567890)
-CHANNEL_ID = "@bidgift_channel"  # ← ЗАМЕНИ НА РЕАЛЬНЫЙ USERNAME ИЛИ ID ТВОЕГО КАНАЛА
+CHANNEL_ID = "-1003717805514"  # ← ЗАМЕНИ НА РЕАЛЬНЫЙ USERNAME ИЛИ ID ТВОЕГО КАНАЛА
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
